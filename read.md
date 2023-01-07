@@ -1,4 +1,5 @@
 Quick setup — if you’ve done this kind of thing before
+
 /
 /
 /
@@ -12,6 +13,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/vishal-sharma-369/Web-development-project-requirements.git
 git push -u origin main
+
 /
 /
 /
@@ -20,6 +22,7 @@ git push -u origin main
 git remote add origin https://github.com/vishal-sharma-369/Web-development-project-requirements.git
 git branch -M main
 git push -u origin main
+
 /
 /
 /
@@ -39,9 +42,11 @@ method-override : https://www.npmjs.com/package/method-override
 ejs : https://www.npmjs.com/package/ejs
 ejs-mate : https://www.npmjs.com/package/ejs-mate
 joi : https://www.npmjs.com/package/joi
+
 /
 /
 mongodb : https://www.npmjs.com/package/mongodb
+
 /
 /
 /
