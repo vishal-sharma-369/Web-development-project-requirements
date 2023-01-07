@@ -84,6 +84,8 @@ cloudinary : https://www.npmjs.com/package/cloudinary
 
 multer-storage-cloudinary : https://www.npmjs.com/package/multer-storage-cloudinary
 
+bs-custom-file-input : https://www.npmjs.com/package/bs-custom-file-input
+
 /
 
 /
