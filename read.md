@@ -80,6 +80,10 @@ joi : https://www.npmjs.com/package/joi
 
 multer : https://www.npmjs.com/package/multer
 
+cloudinary : https://www.npmjs.com/package/cloudinary
+
+multer-storage-cloudinary : https://www.npmjs.com/package/multer-storage-cloudinary
+
 /
 
 /
