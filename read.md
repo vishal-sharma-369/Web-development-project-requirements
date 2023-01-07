@@ -78,6 +78,8 @@ ejs-mate : https://www.npmjs.com/package/ejs-mate
 
 joi : https://www.npmjs.com/package/joi
 
+multer : https://www.npmjs.com/package/multer
+
 /
 
 /
