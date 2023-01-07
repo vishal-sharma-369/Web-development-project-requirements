@@ -105,3 +105,31 @@ mongodb : https://www.npmjs.com/package/mongodb
 /
 
 starability : https://www.npmjs.com/package/starability
+
+/
+
+/
+
+/
+
+/
+
+/
+
+Tools that i have used till now
+
+figma
+
+/
+
+/
+
+/
+
+/
+
+databases that i have used till now
+
+mongodb
+
+cloudinary
