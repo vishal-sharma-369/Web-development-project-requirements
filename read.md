@@ -92,6 +92,8 @@ sanitize-html : https://www.npmjs.com/package/sanitize-html
 
 helmet : https://www.npmjs.com/package/helmet
 
+connect-mongo : https://www.npmjs.com/package/connect-mongo
+
 /
 
 /
