@@ -94,6 +94,8 @@ express-mongo-sanitize : https://www.npmjs.com/package/express-mongo-sanitize
 
 mongodb : https://www.npmjs.com/package/mongodb
 
+express-validator : https://www.npmjs.com/package/express-validator
+
 /
 
 /
