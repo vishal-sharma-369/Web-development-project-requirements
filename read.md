@@ -88,6 +88,8 @@ bs-custom-file-input : https://www.npmjs.com/package/bs-custom-file-input
 
 express-mongo-sanitize : https://www.npmjs.com/package/express-mongo-sanitize
 
+sanitize-html : https://www.npmjs.com/package/sanitize-html
+
 /
 
 /
